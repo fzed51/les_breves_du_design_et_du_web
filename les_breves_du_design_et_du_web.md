@@ -14,4 +14,8 @@
  
 - [Handle Mouse And Touch Input With The Pointer Events API](http://tutorialzine.com/2017/04/handle-mouse-and-touch-input-with-the-pointer-events-api/) 
  
-- 
+- Le futur c'est maintenant
+
+Les principaux navigateur web se sont mis d'accord sur le web assembly : le futur du javascript.
+
+[An Abridged Cartoon Introduction To WebAssembly](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/)
