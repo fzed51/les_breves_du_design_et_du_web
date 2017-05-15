@@ -25,10 +25,10 @@ process {
     &$git tag $tag_name
     &$git checkout master
 
-    [int]$derniereVersion = $info.version.courante
+    [int]$DerniereVersion = $info.version.courante
     [int]$CouranteVersion = $info.version.courante + 1
     $info.publication = $(Get-Date -Format s)
-    $info.version.derniere = $LastVersion
+    $info.version.derniere = $DerniereVersion
     $info.version.courante = $CouranteVersion
     ConvertTo-Json $info | Set-Content $FileInfo
     $commit_msg = "Creation de n" + $info.version.courante
