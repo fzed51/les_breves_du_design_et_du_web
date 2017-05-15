@@ -20,7 +20,11 @@ Spéciale dédicace pour Amélie.
 
 [Asynchronous Functions 101](https://bitsofco.de/asynchronous-functions-101/) 
  
-- [Handle Mouse And Touch Input With The Pointer Events API](http://tutorialzine.com/2017/04/handle-mouse-and-touch-input-with-the-pointer-events-api/) 
+- L'API touche à tout
+
+Pointer Event API qui permet de gérer l'entrée pointeur comme souris.
+
+[Handle Mouse And Touch Input With The Pointer Events API](http://tutorialzine.com/2017/04/handle-mouse-and-touch-input-with-the-pointer-events-api/) 
  
 - Le futur c'est maintenant
 
