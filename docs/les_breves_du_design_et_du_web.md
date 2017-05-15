@@ -8,9 +8,7 @@ Affin de faciliter la mise en forme des composant web, pourquoi ne pas embarquer
  [CSS in JavaScript: The future of component-based styling](https://medium.freecodecamp.com/css-in-javascript-the-future-of-component-based-styling-70b161a79a32)
 
 
-## 2)
-
-## _) Spécial DEV. 
+## 2) Spécial DEV. 
  
 - Le JavaScript est une femme
 
