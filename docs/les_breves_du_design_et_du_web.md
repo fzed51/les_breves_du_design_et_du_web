@@ -12,7 +12,13 @@ Affin de faciliter la mise en forme des composant web, pourquoi ne pas embarquer
 
 ## _) Spécial DEV. 
  
-- [Asynchronous Functions 101](https://bitsofco.de/asynchronous-functions-101/) 
+- Le JavaScript est une femme
+
+Je vous promet, c'est une femme puisqu'elle peut faire plusieure choses en même temps. C'est bien connu que les hommes sont mono tache :-) .
+
+Spéciale dédicace pour Amélie.
+
+[Asynchronous Functions 101](https://bitsofco.de/asynchronous-functions-101/) 
  
 - [Handle Mouse And Touch Input With The Pointer Events API](http://tutorialzine.com/2017/04/handle-mouse-and-touch-input-with-the-pointer-events-api/) 
  
