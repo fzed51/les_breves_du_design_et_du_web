@@ -8,6 +8,11 @@ Coici encore un menu, cette fois el est uniquement en CSS
 [CSS-Only Nested Dropdown Navigation](http://codepen.io/gabriellewee/pen/ybKxgB)
  
 
+## 2) Comment retranscrire un état
+
+Quand on lit cet article on comprand tout dessuit l'importance de bien retranscrire à l'utilisateur l'état des élément web afin que les utilisateurs ne soient pas perdus.
+
+[User Facing State](https://css-tricks.com/user-facing-state/)
 
 
 ## _) Spécial DEV. 
