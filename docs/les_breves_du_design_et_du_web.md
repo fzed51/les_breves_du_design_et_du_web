@@ -15,6 +15,13 @@ Quand on lit cet article on comprand tout dessuit l'importance de bien retranscr
 [User Facing State](https://css-tricks.com/user-facing-state/)
 
 
+## 3) présentation de contenu
+
+Voici quelque idée de présentation de contenu de dossier. Si on puvait proposer la même chose à nos client ça pourait être vendeur.
+
+[Folder Preview Ideas](https://tympanus.net/codrops/2017/05/17/folder-preview-ideas/)
+
+
 ## _) Spécial DEV. 
  
 - Peut être un futur standard
