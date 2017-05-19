@@ -15,12 +15,18 @@ Quand on lit cet article on comprand tout dessuit l'importance de bien retranscr
 [User Facing State](https://css-tricks.com/user-facing-state/)
 
 
-## 3) présentation de contenu
+## 3) Présentation de contenu
 
-Voici quelque idée de présentation de contenu de dossier. Si on puvait proposer la même chose à nos client ça pourait être vendeur.
+Voici quelque idée de présentation de contenu d'un dossier. Si on puvait proposer la même chose à nos client ça pourait être vendeur.
 
 [Folder Preview Ideas](https://tympanus.net/codrops/2017/05/17/folder-preview-ideas/)
 
+
+## 4) L'essence de l'humanité
+
+Comme l'empathie fait partie de la longévité de l'humanité, pourquoi ne pas en metre dans nos page web.
+
+[Empathy’s Role in Experience Design](http://uxmag.com/articles/empathy%E2%80%99s-role-in-experience-design)
 
 ## _) Spécial DEV. 
  
