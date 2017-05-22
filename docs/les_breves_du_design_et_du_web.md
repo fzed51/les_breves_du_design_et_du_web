@@ -36,6 +36,13 @@ Quand on parle de responsive, on parle de taille et de position des conteneur ma
 [Empathy’s Role in Experience Design](http://uxmag.com/articles/empathy%E2%80%99s-role-in-experience-design)
 
 
+## 6) Test d'un site coté utilisateur
+
+C'est toujours pareil, faire des test coté client c'est pas facile. Nightwatch à le mérite de faciliter les test de selenium.
+
+[Nightwatch.js](http://nightwatchjs.org/)
+[Grafikart.fr - Tutoriel JavaScript : Tests end-to-end : Nightwatch.js](https://www.youtube.com/watch?v=LEljiDEquX4)
+
 
 ## _) Spécial DEV. 
  
