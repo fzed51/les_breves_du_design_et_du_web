@@ -8,11 +8,11 @@
  
 - L'objet date en Javascript...
 
-Ceu qui on déjà utiliser cet objet savent à quel point c'est une belle MXXXXXX.
+Ceu qui ont déjà utilisé cet objet savent à quel point c'est une belle mxxxx.
 
 Pour la petite histoire, c'est une bibliothèque reprise à Java 1.0 tellement pouri que Java l'a remplacé dès la version 1.1. En Javascript elle est encore d'actualité.
 
-ECMAScript envisage de remplacer cet objet et étudie la question. Enfin. Si vous voulez voir de qui il en retourne, c'est là :
+ECMAScript envisage de remplacer cet objet et étudie la question. Enfin, si vous voulez voir de qui il en retourne, c'est là :
 
 [Maggie Pint>Temporal Proposal](https://github.com/maggiepint/proposal-temporal)
 
