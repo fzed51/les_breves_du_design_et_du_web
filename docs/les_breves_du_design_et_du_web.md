@@ -1,7 +1,7 @@
 # Les brèves du design et du web 
  
  
-## 1)  Design des formulaires
+## 1)  Le design des formulaires
 
 Aurevoir 200 champ par formulaire, bonjour 200 formulaire. La mode est, de nos jours, de sinder les gros formulaire en plusieur petits, affiché étapes après étapes.
 
