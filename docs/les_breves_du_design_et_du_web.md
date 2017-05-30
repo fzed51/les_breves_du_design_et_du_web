@@ -1,7 +1,11 @@
 # Les brèves du design et du web 
  
  
-## 1)  
+## 1)  Design des formulaires
+
+Aurevoir 200 champ par formulaire, bonjour 200 formulaire. La mode est, de nos jours, de sinder les gros formulaire en plusieur petits, affiché étapes après étapes.
+
+[Better Form Design: One Thing Per Page (Case Study)](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)
  
  
 ## _) Spécial DEV. 
