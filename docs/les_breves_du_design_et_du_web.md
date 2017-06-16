@@ -1,11 +1,20 @@
 # Les brèves du design et du web 
+
+
+## 1) Un framework ? pourquoi faire ?
+
+Dans cet article on explique avec un cas d'usage pourquoi un framework n'est pas toujours nécéssaire.
+
+[“Why We Didn’t Use A Framework” (Case Study)](https://www.smashingmagazine.com/2017/05/why-no-framework/)
+
+
+ ## 2)
+
  
- 
-## 1)  
- 
- 
+
+
 ## _) Spécial DEV. 
- 
+
 - L'objet date en Javascript...
 
 Ceu qui ont déjà utilisé cet objet savent à quel point c'est une belle mxxxx.
