@@ -8,9 +8,21 @@ Dans cet article on explique avec un cas d'usage pourquoi un framework n'est pas
 [“Why We Didn’t Use A Framework” (Case Study)](https://www.smashingmagazine.com/2017/05/why-no-framework/)
 
 
- ## 2)
+## 2) Les grilles CSS
 
- 
+Un bon nombre de ressources pour comprendre et utiliser les grilles CSS.
+
+[CSS Grid Layout, les ressources indispensables pour apprendre](https://www.alsacreations.com/astuce/lire/1739-CSS-Grid-Layout-les-ressources-indispensables-pour-apprendre.html)
+
+
+## 3) Comment metre de la couleur sans provoquer d'hémoragie oculaire.
+
+Pour l'accessiblilité de nos contenus il est important de faire atention au couleurs que l'on utilise.
+
+[Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
+
+
+## 4) 
 
 
 ## _) Spécial DEV. 
