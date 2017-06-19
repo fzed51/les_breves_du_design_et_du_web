@@ -29,7 +29,16 @@ Aurevoir 200 champ par formulaire, bonjour 200 formulaire. La mode est, de nos j
 [Better Form Design: One Thing Per Page (Case Study)](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)
 
 
-## 5) 
+## 5) Diriger l'utilisateur
+
+En passant en interface plate, l'utilisateur se perd dans son interface, il faut utiliser certaine technique pour à nouveau le diriger.
+
+Ici la technique du crop shadow.
+
+[OUT OF THE (DROP)SHADOWS](http://scottjensen.design/2017/05/out-of-the-dropshadows/)
+
+
+## 6) 
 
 
 
@@ -50,4 +59,6 @@ J'ai tiré ces info de cette vidéo :
 [The Past, Present, and Future of JavaScript Date and Time APIs](https://www.youtube.com/watch?v=aVuor-VAWTI)
 
 
-- 
+- La corvé des paquet cadeau.
+
+Se nos jours, les nouvelles techno necessite l'utilisation de la d'éléments d'interface et d'experiance utilisateur modulaire. Pour s'y retrouvé 
