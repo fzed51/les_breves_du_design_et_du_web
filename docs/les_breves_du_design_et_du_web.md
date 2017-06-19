@@ -38,7 +38,14 @@ Ici la technique du crop shadow.
 [OUT OF THE (DROP)SHADOWS](http://scottjensen.design/2017/05/out-of-the-dropshadows/)
 
 
-## 6) 
+## 6) La gestion des texts trop longs
+
+C'est vrai qu'avec Webdev, on a pas trop à se poser la question mai quand on met en forme une page web, ça peut vite devenir un  casse tête. Voici quelques exemples.
+
+[Handling Long and Unexpected Content in CSS](https://css-tricks.com/handling-long-unexpected-content-css/)
+
+
+
 
 
 
