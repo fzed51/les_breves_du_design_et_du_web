@@ -1,15 +1,40 @@
 # Les brèves du design et du web 
- 
- 
-## 1)  Le design des formulaires
+
+
+## 1) Un framework ? pourquoi faire ?
+
+Dans cet article on explique avec un cas d'usage pourquoi un framework n'est pas toujours nécéssaire.
+
+[“Why We Didn’t Use A Framework” (Case Study)](https://www.smashingmagazine.com/2017/05/why-no-framework/)
+
+
+## 2) Les grilles CSS
+
+Un bon nombre de ressources pour comprendre et utiliser les grilles CSS.
+
+[CSS Grid Layout, les ressources indispensables pour apprendre](https://www.alsacreations.com/astuce/lire/1739-CSS-Grid-Layout-les-ressources-indispensables-pour-apprendre.html)
+
+
+## 3) Comment metre de la couleur sans provoquer d'hémoragie oculaire.
+
+Pour l'accessiblilité de nos contenus il est important de faire atention au couleurs que l'on utilise.
+
+[Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
+
+
+## 4)  Le design des formulaires
 
 Aurevoir 200 champ par formulaire, bonjour 200 formulaire. La mode est, de nos jours, de sinder les gros formulaire en plusieur petits, affiché étapes après étapes.
 
 [Better Form Design: One Thing Per Page (Case Study)](https://www.smashingmagazine.com/2017/05/better-form-design-one-thing-per-page/)
- 
- 
+
+
+## 5) 
+
+
+
 ## _) Spécial DEV. 
- 
+
 - L'objet date en Javascript...
 
 Ceu qui ont déjà utilisé cet objet savent à quel point c'est une belle mxxxx.
