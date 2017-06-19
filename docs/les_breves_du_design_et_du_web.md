@@ -61,4 +61,6 @@ J'ai tiré ces info de cette vidéo :
 
 - La corvé des paquet cadeau.
 
-Se nos jours, les nouvelles techno necessite l'utilisation de la d'éléments d'interface et d'experiance utilisateur modulaire. Pour s'y retrouvé 
+Se nos jours, les nouvelles techno necessite l'utilisation de la d'éléments d'interface et d'experiance utilisateur modulaire. Pour s'y retrouvé on a besoin de gestionnaire de paquets. Ici c'est la config et l'utilisation de base de WebPack qui est expliqué.
+
+[Introduction to Webpack: Entry, Output, Loaders, and Plugins](https://css-tricks.com/introduction-webpack-entry-output-loaders-plugins/)
