@@ -45,6 +45,13 @@ C'est vrai qu'avec Webdev, on a pas trop à se poser la question mai quand on me
 [Handling Long and Unexpected Content in CSS](https://css-tricks.com/handling-long-unexpected-content-css/)
 
 
+## 7) Les 13 commandements à suive.. ou pas !
+
+Tout est dans le titre et dans l'article. 
+
+[Guidelines for Building Software that Will Make People Hate You](https://hackernoon.com/guidelines-for-building-software-that-will-make-people-hate-you-23049d7209af)
+
+
 
 
 
