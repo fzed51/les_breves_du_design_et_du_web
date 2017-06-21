@@ -1,7 +1,11 @@
 # Les brèves du design et du web 
  
  
-## ...
+## Les briques : la base de toutes constructions
+
+Material Components est un site qui regroupe un gran nombre de composant web moderne et de bonne facture dans une ambiance "material design".
+
+[Material Components](https://material.io/components/)
  
  
 ## Spécial DEV. 
