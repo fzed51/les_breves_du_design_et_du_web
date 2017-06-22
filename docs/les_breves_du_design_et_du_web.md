@@ -24,7 +24,7 @@ Si vous être tranquile un vendredi après midi rien ne vous empèche d'aller su
  
 - Outils pratique.
 
-Si  vous suivez les quelques infos que je vous donnes, vous avez du remarqué que certaines écritures du style sont particiculiaires. En effet une surcouche de préprocesseur est utiliser pour faciliter l'organisation et l'écriture des feuilles de style (Oui Manu, encore un autre langage 😁).
+Si vous suivez les quelques infos que je vous donnes, vous avez du remarqué que certaines écritures du style sont particiculiaires. En effet une surcouche de préprocesseur est utiliser pour faciliter l'organisation et l'écriture des feuilles de style (Oui Manu, encore un autre langage 😁).
 De plus tous les script qu'on peut trouver ici et là sur la toile sont généralement minifié.
 
 Ce que je vous propose c'est de faire de même. Pour ça il y a cet utilitaire en mode graphique. promis pas de ligne de commande 😉. C'est l'applicatin Koala.
@@ -35,3 +35,9 @@ Cette application peut compiler le LESS, Sass et scss pour le style et le CoffeS
 
 [le setup est déjà ici](\\fabiensa-10\Partage\KoalaSetup.exe)
 
+
+- Troll util
+
+Si vous regardez cette page, vous vous rendrez compte que derière le troll ce cache une vrai info. Le benefice d'utiliser JavaScript en code natif (vanilla).
+
+[Vanilla JS](http://vanilla-js.com/)
