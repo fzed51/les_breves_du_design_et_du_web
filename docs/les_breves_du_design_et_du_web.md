@@ -15,9 +15,11 @@ Si vous être tranquile un vendredi après midi rien ne vous empèche d'aller su
 [OUIGO - Let's play](http://letsplay.ouigo.com/)
 
 
-## ...
+## Des infos qui bougent
 
-...
+Voici quelques exemple d'annimation appliqué à des infos bulles.
+
+[Tooltip Animations](https://tympanus.net/Development/TooltipAnimations/)
 
 
 ## Spécial DEV. 
@@ -41,3 +43,10 @@ Cette application peut compiler le LESS, Sass et scss pour le style et le CoffeS
 Si vous regardez cette page, vous vous rendrez compte que derière le troll ce cache une vrai info. Le benefice d'utiliser JavaScript en code natif (vanilla).
 
 [Vanilla JS](http://vanilla-js.com/)
+
+
+- Canvas facile
+
+Les canvas sons des tag HTML5 qui permet de dessiner avec une bonne dose de JavaScript. La prise en main n'est pas forcement évidente ce qui a poussé Rezoner à créer CanvasQuery. CancvasQuery permet une écriture très simplifié d'un canvas.
+
+[Canvas Query](http://canvasquery.com/)
