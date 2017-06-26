@@ -50,3 +50,10 @@ Si vous regardez cette page, vous vous rendrez compte que derière le troll ce c
 Les canvas sons des tag HTML5 qui permet de dessiner avec une bonne dose de JavaScript. La prise en main n'est pas forcement évidente ce qui a poussé Rezoner à créer CanvasQuery. CancvasQuery permet une écriture très simplifié d'un canvas.
 
 [Canvas Query](http://canvasquery.com/)
+
+
+- Du CSS bien documenté
+
+Le CSS doit, comme le reste des codes,être bien documenté. Si non comme avec le reste, ça devient vite comme la chambre d'un ado et un vrai plat de spaguetti. L'article que je vous présente les avantage de bien documenter le CSS d'un projet.
+
+[What Does a Well-Documented CSS Codebase Look Like?](https://css-tricks.com/well-documented-css-codebase-look-like/)
