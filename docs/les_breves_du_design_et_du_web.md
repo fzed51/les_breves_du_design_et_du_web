@@ -12,8 +12,8 @@ Dans ce fichier on peut y déclarer le logo à afficher sur l'interface de Windo
 
 ## Spécial DEV. 
 
-- z-indez
+- z-index
 
-Non ce n'est pas une propriété zombie du CSS, mais je sais qu'a la simple lecture de ce mot des boutons sont aparu sur votre visage. Alors pour eviter que ça recommence je vous invite à lire la suite.
+Non ce n'est pas une propriété zombie du CSS, mais je sais qu'a la simple lecture de ce mot des boutons sont aparus sur votre visage. Alors pour eviter que ça recommence je vous invite à lire la suite.
 
 [Comprendre z-index et les contextes d'empilement](https://iamvdo.me/blog/comprendre-z-index-et-les-contextes-dempilement)
