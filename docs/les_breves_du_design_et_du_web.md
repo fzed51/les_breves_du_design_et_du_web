@@ -20,6 +20,11 @@ https://codepen.io/erinesullivan/pen/gxdbzp
 https://css-tricks.com/methods-organize-css/
 
 
+- Controler chrome par code
+
+
+https://github.com/GoogleChrome/puppeteer
+
 - ...
 
 ...
