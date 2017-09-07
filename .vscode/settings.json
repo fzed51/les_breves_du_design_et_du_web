@@ -1,4 +1,4 @@
 // Placez vos paramètres dans ce fichier pour remplacer les paramètres par défaut et les paramètres utilisateur.
 {
-    "markdown.styles": ["./css/md.css"]
+    "markdown.styles": ["../css/md.css"]
 }
